@@ -9,7 +9,7 @@ int vowelCount(string str){
 			count++;
 		}
 	}
-	cout<<"numbers of vowels in '"<<str<<"' are total: "<<count<<endl;
+	cout<<"Numbers of vowels in '"<<str<<"' are total: "<<count<<endl;
 }
 
 
