@@ -3,5 +3,7 @@
 
 ## Leet Code Problems
 <ol>
-  <li>Majority Elements: https://github.com/ebfshahbaz01/DSA-UOS/edit/main/LeetCodeProblems/169_Majority_Elements.cpp</li>
+  <li>Majority Elements: 
+    <a href="https://github.com/ebfshahbaz01/DSA-UOS/edit/main/LeetCodeProblems/169_Majority_Elements.cpp">Click Here To Show</a>
+  </li>
 </ol>
