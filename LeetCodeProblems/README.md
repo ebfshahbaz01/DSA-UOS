@@ -9,4 +9,7 @@
    <li>Remove Elements: 
     <a href="https://github.com/ebfshahbaz01/DSA-UOS/edit/main/LeetCodeProblems/27_Remove_Elements.cpp">Click Here To Show</a>
   </li>
+<li>Next Permutations: 
+    <a href="https://github.com/ebfshahbaz01/DSA-UOS/edit/main/LeetCodeProblems/31_Next_Permutations.cpp">Click Here To Show</a>
+  </li>
 </ol>
